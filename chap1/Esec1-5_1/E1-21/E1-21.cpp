@@ -7,9 +7,10 @@ int main() {
     cin >> item1 >> item2;
     if (item1.isbn() == item2.isbn()) {
         cout << (item1 + item2) << endl;
+        return 1;
     }
     else {
-        cout << "ISBN doesnt match!" << endl;
+        cerr << "ISBN doesnt match!" << endl;
+        return -1;
     }
-    return 0;
 }
