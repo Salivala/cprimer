@@ -1,0 +1,9 @@
+What are the differences between int, long, long long, and short? Between an unsigned and a signed type? Between a float and a double? 
+
+int only has 16 bits
+long has 32 and long long has 64. There are no decimals to these.
+
+I'm not sure what the different between an int and a short is, but apparently even though they are both 16 bit short has a smaller set than int.
+
+The different between a float and double is that float is 6 sig digits and 
+double is 10 sig digits.
