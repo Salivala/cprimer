@@ -1,0 +1,1 @@
+Exercise 1.24 is just file redirection which i already tested when working on Exercise 1.23's solution
