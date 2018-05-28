@@ -1,0 +1,28 @@
+Exercise 2.9 : Explain the following definitions.For those that are illegal, explain what's wrong and how to correct it.
+(A). std::cin >> int input_value;
+This statement is wrong because "std::cin >>" is expecting a variable,
+ or container, but is instead being given a variable definition, which is not 
+the same. Additionally the context in which these two things happen would not 
+implicitly initialize input_value. 
+
+
+The proper way would be like this : 
+int input_value; // definition without a value yet
+std::cin >> input_value; // value given from standard input
+
+(B) int i = {3.14}
+This is also incorrect. While the syntax is correct, using the list initializer with a type that would truncate information results in an error. If you need to caste this do something like:
+
+int i (3.14);
+
+(C) double salary = wage = 9999.99;
+In the current context wage has not been defined, if it was previously defined like so: 
+
+double wage{}; 
+double salary = wage = 9999.99;
+
+This would work because wage{} would have been defined and initialized. in this case wage doesn't even need to initialized, and can be assigned, because it is being assigned in the statement.
+
+(D) int i = 3.14
+This is legal, but might lead to a compiler warning because loss of information
+
