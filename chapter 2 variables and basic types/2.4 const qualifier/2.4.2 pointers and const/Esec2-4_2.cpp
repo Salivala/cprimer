@@ -54,7 +54,10 @@ int exercise2_29()
      * assignments are legal? Explain why.
      * (a) i = ic; : Illegal, ic was never able to be declared, so this assignment will not work.
      * ---------------------------------------------------------------------------------------------
-     * (b) 
+     * (b) p1 = p3; Illegal, again, because p3 was declared without initialization and was a const 
+     *     pointer, this assignment fails.
+     * ---------------------------------------------------------------------------------------------
+     * (c) p1 = &ic;
      * ---------------------------------------------------------------------------------------------
      */
     //const int ic, &r = ic;

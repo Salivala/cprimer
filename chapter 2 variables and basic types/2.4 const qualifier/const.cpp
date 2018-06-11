@@ -1,5 +1,6 @@
 #include <iostream>
 
+
 int main()
 {
     const int &devils_number = 666;
