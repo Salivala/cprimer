@@ -52,15 +52,27 @@ int exercise2_29()
     /*
      * Exercise 2.29: Using the variables in the previous exercise, which of the following 
      * assignments are legal? Explain why.
-     * (a) i = ic; : Illegal, ic was never able to be declared, so this assignment will not work.
+     * (a) i = ic; : Legal, provided ic was properly initialized when defined ( it wasn't, but
+     *     assuming it is ) the value will be copied from ic into i, which is legal.
      * ---------------------------------------------------------------------------------------------
-     * (b) p1 = p3; Illegal, again, because p3 was declared without initialization and was a const 
-     *     pointer, this assignment fails.
+     * (b) p1 = p3; : Illegal, while p1 can be reassigned, and the value for p3 could be copied, 
+     *     because of the const before the int, this would result in a pointer to const, without
+     *     it being declared.
      * ---------------------------------------------------------------------------------------------
-     * (c) p1 = &ic;
+     * (c) p1 = &ic; : Illegal, incompatible compound type. Needs to also be a pointer to const, 
+     *     as it is refering to a const int.
      * ---------------------------------------------------------------------------------------------
+     * (d) p3 = &ic; : Illegal, this declaration assumes p1 has already been declared. Because it is
+     *     a const pointer, it cannot be reassigned. If it wasn't a const pointer this could work,
+     *     however.
+     * ---------------------------------------------------------------------------------------------
+     * (e) p2 = p1; : Illegal, *const pointers cannot be reassigned, otherwise this could work?;
      */
-    //const int ic, &r = ic;
+    int *k;
+    int **n = &k;
+    int p = 123;
+    k = &p;
+    std::cout << *k << " " << **n << std::endl;
     return 0;
 }
 
