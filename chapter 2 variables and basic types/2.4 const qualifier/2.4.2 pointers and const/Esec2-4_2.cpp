@@ -66,7 +66,9 @@ int exercise2_29()
      *     a const pointer, it cannot be reassigned. If it wasn't a const pointer this could work,
      *     however.
      * ---------------------------------------------------------------------------------------------
-     * (e) p2 = p1; : Illegal, *const pointers cannot be reassigned, otherwise this could work?;
+     * (e) p2 = p1; : Illegal, *const pointers cannot be reassigned.
+     * ---------------------------------------------------------------------------------------------
+     * (f) ic = *p3; : Illegal cannot reassign a constent
      */
     int *k;
     int **n = &k;
