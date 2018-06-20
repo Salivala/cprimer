@@ -1,3 +1,4 @@
 Exercise section 2.5.2 on page 70 ( auto specifieri )
 figure out the list.cpp thing i was working on in 2.6.1's playing around
 2.6.1 section write my own version of sales_data class
+section 2.6.2 use my class to rewrite

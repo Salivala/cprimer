@@ -16,20 +16,26 @@ int print_all(list_item list)
         return 0;
 }
 
-list_item generate_list(int index, int numbers[])
+list_item generate_simple_list(unsigned amount)
 {
-    list_item n;
-    n.item = index;
-    if (index < 8)
+    list_item list;
+    list.item = amount;
+    if (amount > 0)
     {
-        list_item k = generate_list(++index, numbers);
-        n.next = &k;
+        /*
+         * I know that dereferencing list.next will attempt to change the value of nullptr, which isn't what i want.
+         * I'm trying to change the location list.next points to to the new list generated. 
+         * I can't seem to use & before the recurse though, so I'm a bit stuck.
+         */
+        *list.next = generate_simple_list(amount - 1);
+        
+        //list.next = &list;
     }
-    return n;
+
+    return list;
 }
 
 int main()
 {
-    int k[8] = {0,1,2,3,4,5,6,7};
-    print_all(generate_list(0, k));
+    print_all(generate_simple_list(20));
 }
