@@ -1,0 +1,3 @@
+/home/hayden/CLionProjects/cprimer/chapter 2 variables and basic types/2.6 defining our own data structures/2.6.2 using the sales_data class/Esec2-6_3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/hayden/CLionProjects/cprimer/chapter 2 variables and basic types/2.6 defining our own data structures/2.6.2 using the sales_data class/Esec2-6_3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/hayden/CLionProjects/cprimer/chapter 2 variables and basic types/2.6 defining our own data structures/2.6.2 using the sales_data class/Esec2-6_3/cmake-build-debug/CMakeFiles/Esec2-6_2.dir
