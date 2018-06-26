@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="false">
-    <generated />
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/CMakeLists.txt" line="2" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="Project" targetName="main" />
+      <config projectName="Project" targetName="esec3-2_2.cpp" />
+    </generated>
   </component>
   <component name="CMakeSettings">
     <configurations>
@@ -10,11 +16,72 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d90e6927-161c-481f-9c2b-ffb9de875bcb" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/chapter 2 variables and basic types/2.3 compound types/2.3.2 pointers/Esec2-3_2.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 2 variables and basic types/2.3 compound types/2.3.2 pointers/Esec2-3_2.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter 2 variables and basic types/2.3 compound types/2.3.2 pointers/Esec2-3_2.cpp.out" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 2 variables and basic types/2.3 compound types/2.3.2 pointers/Esec2-3_2.cpp.out" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter 2 variables and basic types/2.3 compound types/2.3.2 pointers/pointer practice/pointer.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 2 variables and basic types/2.3 compound types/2.3.2 pointers/pointer practice/pointer.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter 2 variables and basic types/2.3 compound types/2.3.2 pointers/pointer practice/pointer.cpp.out" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 2 variables and basic types/2.3 compound types/2.3.2 pointers/pointer practice/pointer.cpp.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/cprimer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/cprimer.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 2 variables and basic types/2.6 defining our own data structures/2.6.1 defining the sales_data type/Esec2-6_1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 2 variables and basic types/2.6 defining our own data structures/2.6.1 defining the sales_data type/Esec2-6_1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 2 variables and basic types/2.6 defining our own data structures/2.6.1 defining the sales_data type/a.out" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 2 variables and basic types/2.6 defining our own data structures/2.6.1 defining the sales_data type/a.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 2 variables and basic types/2.6 defining our own data structures/2.6.1 defining the sales_data type/playing around/list.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 2 variables and basic types/2.6 defining our own data structures/2.6.1 defining the sales_data type/playing around/list.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 2 variables and basic types/2.6 defining our own data structures/2.6.1 defining the sales_data type/playing around/list/list.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 2 variables and basic types/2.6 defining our own data structures/2.6.1 defining the sales_data type/playing around/list/list.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 2 variables and basic types/2.6 defining our own data structures/2.6.1 defining the sales_data type/playing around/list/list.cpp.out" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 2 variables and basic types/2.6 defining our own data structures/2.6.1 defining the sales_data type/playing around/list/list.cpp.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 2 variables and basic types/2.6 defining our own data structures/2.6.1 defining the sales_data type/sales_data.h.gch" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 2 variables and basic types/2.6 defining our own data structures/2.6.1 defining the sales_data type/sales_data.h.gch" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 2 variables and basic types/2.6 defining our own data structures/2.6.1 defining the sales_data type/struct.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/chapter 2 variables and basic types/2.6 defining our own data structures/2.6.1 defining the sales_data type/struct.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 2 variables and basic types/2.6 defining our own data structures/2.6.2 using the sales_data class/Esec2-6_2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 2 variables and basic types/2.6 defining our own data structures/2.6.2 using the sales_data class/Esec2-6_2.cpp.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 2 variables and basic types/2.6 defining our own data structures/2.6.2 using the sales_data class/Esec2-6_3/Sales_data.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 2 variables and basic types/2.6 defining our own data structures/2.6.2 using the sales_data class/Esec2-6_3/Sales_data.cpp.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 2 variables and basic types/2.6 defining our own data structures/2.6.2 using the sales_data class/Esec2-6_3/Sales_data.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 2 variables and basic types/2.6 defining our own data structures/2.6.2 using the sales_data class/Esec2-6_3/Sales_data.h.gch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 2 variables and basic types/2.6 defining our own data structures/2.6.2 using the sales_data class/Esec2-6_3/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 2 variables and basic types/2.6 defining our own data structures/2.6.2 using the sales_data class/Esec2-6_3/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 2 variables and basic types/2.6 defining our own data structures/2.6.2 using the sales_data class/Esec2-6_3/cmake-build-debug/CMakeFiles/3.10.3/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 2 variables and basic types/2.6 defining our own data structures/2.6.2 using the sales_data class/Esec2-6_3/cmake-build-debug/CMakeFiles/3.10.3/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 2 variables and basic types/2.6 defining our own data structures/2.6.2 using the sales_data class/Esec2-6_3/cmake-build-debug/CMakeFiles/3.10.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 2 variables and basic types/2.6 defining our own data structures/2.6.2 using the sales_data class/Esec2-6_3/cmake-build-debug/CMakeFiles/3.10.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 2 variables and basic types/2.6 defining our own data structures/2.6.2 using the sales_data class/Esec2-6_3/cmake-build-debug/CMakeFiles/3.10.3/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 2 variables and basic types/2.6 defining our own data structures/2.6.2 using the sales_data class/Esec2-6_3/cmake-build-debug/CMakeFiles/3.10.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 2 variables and basic types/2.6 defining our own data structures/2.6.2 using the sales_data class/Esec2-6_3/cmake-build-debug/CMakeFiles/3.10.3/CompilerIdC/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 2 variables and basic types/2.6 defining our own data structures/2.6.2 using the sales_data class/Esec2-6_3/cmake-build-debug/CMakeFiles/3.10.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 2 variables and basic types/2.6 defining our own data structures/2.6.2 using the sales_data class/Esec2-6_3/cmake-build-debug/CMakeFiles/3.10.3/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 2 variables and basic types/2.6 defining our own data structures/2.6.2 using the sales_data class/Esec2-6_3/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 2 variables and basic types/2.6 defining our own data structures/2.6.2 using the sales_data class/Esec2-6_3/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 2 variables and basic types/2.6 defining our own data structures/2.6.2 using the sales_data class/Esec2-6_3/cmake-build-debug/CMakeFiles/Esec2-6_2.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 2 variables and basic types/2.6 defining our own data structures/2.6.2 using the sales_data class/Esec2-6_3/cmake-build-debug/CMakeFiles/Esec2-6_2.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 2 variables and basic types/2.6 defining our own data structures/2.6.2 using the sales_data class/Esec2-6_3/cmake-build-debug/CMakeFiles/Esec2-6_2.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 2 variables and basic types/2.6 defining our own data structures/2.6.2 using the sales_data class/Esec2-6_3/cmake-build-debug/CMakeFiles/Esec2-6_2.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 2 variables and basic types/2.6 defining our own data structures/2.6.2 using the sales_data class/Esec2-6_3/cmake-build-debug/CMakeFiles/Esec2-6_2.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 2 variables and basic types/2.6 defining our own data structures/2.6.2 using the sales_data class/Esec2-6_3/cmake-build-debug/CMakeFiles/Esec2-6_2.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 2 variables and basic types/2.6 defining our own data structures/2.6.2 using the sales_data class/Esec2-6_3/cmake-build-debug/CMakeFiles/Esec2-6_3.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 2 variables and basic types/2.6 defining our own data structures/2.6.2 using the sales_data class/Esec2-6_3/cmake-build-debug/CMakeFiles/Esec2-6_3.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 2 variables and basic types/2.6 defining our own data structures/2.6.2 using the sales_data class/Esec2-6_3/cmake-build-debug/CMakeFiles/Esec2-6_3.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 2 variables and basic types/2.6 defining our own data structures/2.6.2 using the sales_data class/Esec2-6_3/cmake-build-debug/CMakeFiles/Esec2-6_3.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 2 variables and basic types/2.6 defining our own data structures/2.6.2 using the sales_data class/Esec2-6_3/cmake-build-debug/CMakeFiles/Esec2-6_3.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 2 variables and basic types/2.6 defining our own data structures/2.6.2 using the sales_data class/Esec2-6_3/cmake-build-debug/CMakeFiles/Esec2-6_3.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 2 variables and basic types/2.6 defining our own data structures/2.6.2 using the sales_data class/Esec2-6_3/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 2 variables and basic types/2.6 defining our own data structures/2.6.2 using the sales_data class/Esec2-6_3/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 2 variables and basic types/2.6 defining our own data structures/2.6.2 using the sales_data class/Esec2-6_3/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 2 variables and basic types/2.6 defining our own data structures/2.6.2 using the sales_data class/Esec2-6_3/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 2 variables and basic types/2.6 defining our own data structures/2.6.2 using the sales_data class/Esec2-6_3/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 2 variables and basic types/2.6 defining our own data structures/2.6.2 using the sales_data class/Esec2-6_3/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 2 variables and basic types/2.6 defining our own data structures/2.6.2 using the sales_data class/Esec2-6_3/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 2 variables and basic types/2.6 defining our own data structures/2.6.2 using the sales_data class/Esec2-6_3/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 2 variables and basic types/2.6 defining our own data structures/2.6.2 using the sales_data class/Esec2-6_3/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 2 variables and basic types/2.6 defining our own data structures/2.6.2 using the sales_data class/Esec2-6_3/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 2 variables and basic types/2.6 defining our own data structures/2.6.2 using the sales_data class/Esec2-6_3/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 2 variables and basic types/2.6 defining our own data structures/2.6.2 using the sales_data class/Esec2-6_3/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/chapter 2 variables and basic types/2.6 defining our own data structures/2.6.2 using the sales_data class/Esec2-6_3/cmake-build-debug/cprimer.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/folderstruct.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nvim/.netrwhist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nvim/colors/neodark.vim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nvim/colors/srcery.vim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nvim/init.vim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sectionBusywork.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing stuff/1/1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testing stuff/1/1.cpp.out" beforeDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,18 +89,63 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FavoritesManager">
+    <favorites_list name="cprimer" />
+  </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="defining.cpp" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chapter 2 variables and basic types/2.3 compound types/2.3.1 references/defining.cpp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="vertical" split-proportion="0.74497485">
+      <split-first>
+        <splitter split-orientation="horizontal" split-proportion="0.5">
+          <split-first>
+            <leaf>
+              <file leaf-file-name="main.cpp" pinned="false" current-in-tab="true">
+                <entry file="file://$PROJECT_DIR$/main.cpp">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="330">
+                      <caret line="23" selection-start-line="23" selection-end-line="23" />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+            </leaf>
+          </split-first>
+          <split-second>
+            <leaf>
+              <file leaf-file-name="Esec3-2_2.cpp" pinned="false" current-in-tab="true">
+                <entry file="file://$PROJECT_DIR$/chapter 3 - strings, vectors, and arrays/3.2 library string type/3.2.2 operations on strings/Esec3-2_2/Esec3-2_2.cpp">
+                  <provider selected="true" editor-type-id="text-editor">
+                    <state relative-caret-position="554">
+                      <caret line="100" column="49" selection-start-line="100" selection-start-column="49" selection-end-line="100" selection-end-column="49" />
+                    </state>
+                  </provider>
+                </entry>
+              </file>
+            </leaf>
+          </split-second>
+        </splitter>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="CMakeLists.txt" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="60">
+                  <caret line="4" selection-start-line="4" selection-end-line="4" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -42,6 +154,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/chapter 2 variables and basic types/2.3 compound types/2.3.1 references/defining.cpp" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/main.cpp" />
+        <option value="$PROJECT_DIR$/chapter 3 - strings, vectors, and arrays/3.2 library string type/3.2.2 operations on strings/Esec3-2_2/Esec3-2_2.cpp" />
       </list>
     </option>
   </component>
@@ -55,16 +170,16 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="60" />
-    <option name="width" value="1431" />
-    <option name="height" value="844" />
+    <option name="x" value="-1" />
+    <option name="y" value="23" />
+    <option name="width" value="1602" />
+    <option name="height" value="878" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -75,25 +190,34 @@
             <path>
               <item name="cprimer" type="b2602c69:ProjectViewProjectNode" />
               <item name="cprimer" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter 2 variables and basic types" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter 3 - strings, vectors, and arrays" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cprimer" type="b2602c69:ProjectViewProjectNode" />
               <item name="cprimer" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter 2 variables and basic types" type="462c0819:PsiDirectoryNode" />
-              <item name="2.3 compound types" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter 3 - strings, vectors, and arrays" type="462c0819:PsiDirectoryNode" />
+              <item name="3.2 library string type" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="cprimer" type="b2602c69:ProjectViewProjectNode" />
               <item name="cprimer" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter 2 variables and basic types" type="462c0819:PsiDirectoryNode" />
-              <item name="2.3 compound types" type="462c0819:PsiDirectoryNode" />
-              <item name="2.3.1 references" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter 3 - strings, vectors, and arrays" type="462c0819:PsiDirectoryNode" />
+              <item name="3.2 library string type" type="462c0819:PsiDirectoryNode" />
+              <item name="3.2.2 operations on strings" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cprimer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cprimer" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter 3 - strings, vectors, and arrays" type="462c0819:PsiDirectoryNode" />
+              <item name="3.2 library string type" type="462c0819:PsiDirectoryNode" />
+              <item name="3.2.2 operations on strings" type="462c0819:PsiDirectoryNode" />
+              <item name="Esec3-2_2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -101,6 +225,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -114,6 +239,16 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="Application.main">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="main" EXPLICIT_BUILD_TARGET_NAME="all" />
+    <configuration name="esec3-2_2.cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="esec3-2_2.cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="main" />
+    <configuration name="main" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="main" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="main" />
+    <list>
+      <item itemvalue="Application.Build All" />
+      <item itemvalue="Application.esec3-2_2.cpp" />
+      <item itemvalue="Application.main" />
+    </list>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -125,32 +260,64 @@
       <option name="presentableId" value="Default" />
       <updated>1527957213421</updated>
       <workItem from="1527957214617" duration="48000" />
+      <workItem from="1529921467125" duration="1484000" />
+      <workItem from="1529924843323" duration="490000" />
+      <workItem from="1529979326897" duration="4381000" />
+      <workItem from="1529989174962" duration="269000" />
+      <workItem from="1529989460949" duration="93000" />
+      <workItem from="1529989573857" duration="4147000" />
+      <workItem from="1529995469174" duration="2898000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48000" />
+    <option name="totallyTimeSpent" value="13810000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1600" height="866" extended-state="6" />
+    <frame x="-1" y="23" width="1922" height="1058" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.223125" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.22291666" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.4027778" />
+      <window_info anchor="bottom" id="CMake" order="11" weight="0.32843652" />
+      <window_info anchor="right" id="LuaJ" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.16468254" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32936507" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.16474292" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.22291666" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="LuaJ" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.4029381" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32988358" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="CMake" order="11" weight="0.32843652" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -158,11 +325,149 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="18" selection-start-line="17" selection-start-column="18" selection-end-line="17" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter 3 - strings, vectors, and arrays/3.2 library string type/3.2.2 operations on strings/Esec3-2_2/Esec3-2_2.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="8" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="1" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter 3 - strings, vectors, and arrays/3.2 library string type/3.2.2 operations on strings/Esec3-2_2/Esec3-2_2.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter 3 - strings, vectors, and arrays/3.2 library string type/3.2.2 operations on strings/Esec3-2_2/Esec3-2_2.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/chapter 2 variables and basic types/2.3 compound types/2.3.1 references/defining.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter 2 variables and basic types/2.3 compound types/2.3.1 references/defining.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter 2 variables and basic types/2.6 defining our own data structures/2.6.1 defining the sales_data type/playing around/list/list_node.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter 2 variables and basic types/2.3 compound types/2.3.1 references/defining.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/8.1.1/ostream">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="127" selection-start-line="127" selection-end-line="127" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter 3 - strings, vectors, and arrays/3.2 library string type/3.2.2 operations on strings/Esec3-2_2/Esec3-2_2.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="554">
+          <caret line="100" column="49" selection-start-line="100" selection-start-column="49" selection-end-line="100" selection-end-column="49" />
         </state>
       </provider>
     </entry>

@@ -28,7 +28,6 @@ list_item generate_simple_list(unsigned amount)
          * I can't seem to use & before the recurse though, so I'm a bit stuck.
          */
         *list.next = generate_simple_list(amount - 1);
-        
         //list.next = &list;
     }
 

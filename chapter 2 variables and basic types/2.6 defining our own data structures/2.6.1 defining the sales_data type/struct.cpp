@@ -6,4 +6,7 @@
 int main()
 {
     Sales_data n;
+    n.bookNo = "banana!";
+    std::cout << n.bookNo << std::endl;
+    std::cerr << "error!" <<std::endl;
 }

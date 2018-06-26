@@ -5,11 +5,11 @@
  * a class definition. Remember the message for future reference
  */
 
-/*
-struct Foo{}
-int main()
+
+//struct Foo {}  : gives an error because structs need a semicolon at the end
+/*int main()
 {
-    return 0;
 }
 */
 
+// Exercise 2.40: Write your own version of the Sales_data class
