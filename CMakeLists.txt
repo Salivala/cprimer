@@ -6,4 +6,4 @@ add_executable(
         #"chapter 2 variables and basic types/2.6 defining our own data structures/2.6.2 using the sales_data class/sales_data.h"
 )
 
-add_library(esec3-2_2.cpp "chapter 3 - strings, vectors, and arrays/3.2 library string type/3.2.2 operations on strings/Esec3-2_2/Esec3-2_2.cpp")
+add_library(esec3-2_2.cpp "chapter 3 - strings, vectors, and arrays/3.2 library string type/3.2.2 operations on strings/Esec3-2_2/Esec3-2_2.cpp" "chapter 3 - strings, vectors, and arrays/3.2 library string type/3.2.2 operations on strings/3.2.3 dealing with the characters in a string/Esec3-2_3.cpp" "chapter 3 - strings, vectors, and arrays/3.3 library vector type/weeee.cpp")

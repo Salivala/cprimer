@@ -136,6 +136,33 @@ main/fast:
 	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/build
 .PHONY : main/fast
 
+chapter_3_-_strings,_vectors,_and_arrays/3.2_library_string_type/3.2.2_operations_on_strings/3.2.3_dealing_with_the_characters_in_a_string/Esec3-2_3.o: chapter_3_-_strings,_vectors,_and_arrays/3.2_library_string_type/3.2.2_operations_on_strings/3.2.3_dealing_with_the_characters_in_a_string/Esec3-2_3.cpp.o
+
+.PHONY : chapter_3_-_strings,_vectors,_and_arrays/3.2_library_string_type/3.2.2_operations_on_strings/3.2.3_dealing_with_the_characters_in_a_string/Esec3-2_3.o
+
+# target to build an object file
+chapter_3_-_strings,_vectors,_and_arrays/3.2_library_string_type/3.2.2_operations_on_strings/3.2.3_dealing_with_the_characters_in_a_string/Esec3-2_3.cpp.o:
+	$(MAKE) -f CMakeFiles/esec3-2_2.cpp.dir/build.make CMakeFiles/esec3-2_2.cpp.dir/chapter_3_-_strings,_vectors,_and_arrays/3.2_library_string_type/3.2.2_operations_on_strings/3.2.3_dealing_with_the_characters_in_a_string/Esec3-2_3.cpp.o
+.PHONY : chapter_3_-_strings,_vectors,_and_arrays/3.2_library_string_type/3.2.2_operations_on_strings/3.2.3_dealing_with_the_characters_in_a_string/Esec3-2_3.cpp.o
+
+chapter_3_-_strings,_vectors,_and_arrays/3.2_library_string_type/3.2.2_operations_on_strings/3.2.3_dealing_with_the_characters_in_a_string/Esec3-2_3.i: chapter_3_-_strings,_vectors,_and_arrays/3.2_library_string_type/3.2.2_operations_on_strings/3.2.3_dealing_with_the_characters_in_a_string/Esec3-2_3.cpp.i
+
+.PHONY : chapter_3_-_strings,_vectors,_and_arrays/3.2_library_string_type/3.2.2_operations_on_strings/3.2.3_dealing_with_the_characters_in_a_string/Esec3-2_3.i
+
+# target to preprocess a source file
+chapter_3_-_strings,_vectors,_and_arrays/3.2_library_string_type/3.2.2_operations_on_strings/3.2.3_dealing_with_the_characters_in_a_string/Esec3-2_3.cpp.i:
+	$(MAKE) -f CMakeFiles/esec3-2_2.cpp.dir/build.make CMakeFiles/esec3-2_2.cpp.dir/chapter_3_-_strings,_vectors,_and_arrays/3.2_library_string_type/3.2.2_operations_on_strings/3.2.3_dealing_with_the_characters_in_a_string/Esec3-2_3.cpp.i
+.PHONY : chapter_3_-_strings,_vectors,_and_arrays/3.2_library_string_type/3.2.2_operations_on_strings/3.2.3_dealing_with_the_characters_in_a_string/Esec3-2_3.cpp.i
+
+chapter_3_-_strings,_vectors,_and_arrays/3.2_library_string_type/3.2.2_operations_on_strings/3.2.3_dealing_with_the_characters_in_a_string/Esec3-2_3.s: chapter_3_-_strings,_vectors,_and_arrays/3.2_library_string_type/3.2.2_operations_on_strings/3.2.3_dealing_with_the_characters_in_a_string/Esec3-2_3.cpp.s
+
+.PHONY : chapter_3_-_strings,_vectors,_and_arrays/3.2_library_string_type/3.2.2_operations_on_strings/3.2.3_dealing_with_the_characters_in_a_string/Esec3-2_3.s
+
+# target to generate assembly for a file
+chapter_3_-_strings,_vectors,_and_arrays/3.2_library_string_type/3.2.2_operations_on_strings/3.2.3_dealing_with_the_characters_in_a_string/Esec3-2_3.cpp.s:
+	$(MAKE) -f CMakeFiles/esec3-2_2.cpp.dir/build.make CMakeFiles/esec3-2_2.cpp.dir/chapter_3_-_strings,_vectors,_and_arrays/3.2_library_string_type/3.2.2_operations_on_strings/3.2.3_dealing_with_the_characters_in_a_string/Esec3-2_3.cpp.s
+.PHONY : chapter_3_-_strings,_vectors,_and_arrays/3.2_library_string_type/3.2.2_operations_on_strings/3.2.3_dealing_with_the_characters_in_a_string/Esec3-2_3.cpp.s
+
 chapter_3_-_strings,_vectors,_and_arrays/3.2_library_string_type/3.2.2_operations_on_strings/Esec3-2_2/Esec3-2_2.o: chapter_3_-_strings,_vectors,_and_arrays/3.2_library_string_type/3.2.2_operations_on_strings/Esec3-2_2/Esec3-2_2.cpp.o
 
 .PHONY : chapter_3_-_strings,_vectors,_and_arrays/3.2_library_string_type/3.2.2_operations_on_strings/Esec3-2_2/Esec3-2_2.o
@@ -162,6 +189,33 @@ chapter_3_-_strings,_vectors,_and_arrays/3.2_library_string_type/3.2.2_operation
 chapter_3_-_strings,_vectors,_and_arrays/3.2_library_string_type/3.2.2_operations_on_strings/Esec3-2_2/Esec3-2_2.cpp.s:
 	$(MAKE) -f CMakeFiles/esec3-2_2.cpp.dir/build.make CMakeFiles/esec3-2_2.cpp.dir/chapter_3_-_strings,_vectors,_and_arrays/3.2_library_string_type/3.2.2_operations_on_strings/Esec3-2_2/Esec3-2_2.cpp.s
 .PHONY : chapter_3_-_strings,_vectors,_and_arrays/3.2_library_string_type/3.2.2_operations_on_strings/Esec3-2_2/Esec3-2_2.cpp.s
+
+chapter_3_-_strings,_vectors,_and_arrays/3.3_library_vector_type/weeee.o: chapter_3_-_strings,_vectors,_and_arrays/3.3_library_vector_type/weeee.cpp.o
+
+.PHONY : chapter_3_-_strings,_vectors,_and_arrays/3.3_library_vector_type/weeee.o
+
+# target to build an object file
+chapter_3_-_strings,_vectors,_and_arrays/3.3_library_vector_type/weeee.cpp.o:
+	$(MAKE) -f CMakeFiles/esec3-2_2.cpp.dir/build.make CMakeFiles/esec3-2_2.cpp.dir/chapter_3_-_strings,_vectors,_and_arrays/3.3_library_vector_type/weeee.cpp.o
+.PHONY : chapter_3_-_strings,_vectors,_and_arrays/3.3_library_vector_type/weeee.cpp.o
+
+chapter_3_-_strings,_vectors,_and_arrays/3.3_library_vector_type/weeee.i: chapter_3_-_strings,_vectors,_and_arrays/3.3_library_vector_type/weeee.cpp.i
+
+.PHONY : chapter_3_-_strings,_vectors,_and_arrays/3.3_library_vector_type/weeee.i
+
+# target to preprocess a source file
+chapter_3_-_strings,_vectors,_and_arrays/3.3_library_vector_type/weeee.cpp.i:
+	$(MAKE) -f CMakeFiles/esec3-2_2.cpp.dir/build.make CMakeFiles/esec3-2_2.cpp.dir/chapter_3_-_strings,_vectors,_and_arrays/3.3_library_vector_type/weeee.cpp.i
+.PHONY : chapter_3_-_strings,_vectors,_and_arrays/3.3_library_vector_type/weeee.cpp.i
+
+chapter_3_-_strings,_vectors,_and_arrays/3.3_library_vector_type/weeee.s: chapter_3_-_strings,_vectors,_and_arrays/3.3_library_vector_type/weeee.cpp.s
+
+.PHONY : chapter_3_-_strings,_vectors,_and_arrays/3.3_library_vector_type/weeee.s
+
+# target to generate assembly for a file
+chapter_3_-_strings,_vectors,_and_arrays/3.3_library_vector_type/weeee.cpp.s:
+	$(MAKE) -f CMakeFiles/esec3-2_2.cpp.dir/build.make CMakeFiles/esec3-2_2.cpp.dir/chapter_3_-_strings,_vectors,_and_arrays/3.3_library_vector_type/weeee.cpp.s
+.PHONY : chapter_3_-_strings,_vectors,_and_arrays/3.3_library_vector_type/weeee.cpp.s
 
 main.o: main.cpp.o
 
@@ -200,9 +254,15 @@ help:
 	@echo "... esec3-2_2.cpp"
 	@echo "... edit_cache"
 	@echo "... main"
+	@echo "... chapter_3_-_strings,_vectors,_and_arrays/3.2_library_string_type/3.2.2_operations_on_strings/3.2.3_dealing_with_the_characters_in_a_string/Esec3-2_3.o"
+	@echo "... chapter_3_-_strings,_vectors,_and_arrays/3.2_library_string_type/3.2.2_operations_on_strings/3.2.3_dealing_with_the_characters_in_a_string/Esec3-2_3.i"
+	@echo "... chapter_3_-_strings,_vectors,_and_arrays/3.2_library_string_type/3.2.2_operations_on_strings/3.2.3_dealing_with_the_characters_in_a_string/Esec3-2_3.s"
 	@echo "... chapter_3_-_strings,_vectors,_and_arrays/3.2_library_string_type/3.2.2_operations_on_strings/Esec3-2_2/Esec3-2_2.o"
 	@echo "... chapter_3_-_strings,_vectors,_and_arrays/3.2_library_string_type/3.2.2_operations_on_strings/Esec3-2_2/Esec3-2_2.i"
 	@echo "... chapter_3_-_strings,_vectors,_and_arrays/3.2_library_string_type/3.2.2_operations_on_strings/Esec3-2_2/Esec3-2_2.s"
+	@echo "... chapter_3_-_strings,_vectors,_and_arrays/3.3_library_vector_type/weeee.o"
+	@echo "... chapter_3_-_strings,_vectors,_and_arrays/3.3_library_vector_type/weeee.i"
+	@echo "... chapter_3_-_strings,_vectors,_and_arrays/3.3_library_vector_type/weeee.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
