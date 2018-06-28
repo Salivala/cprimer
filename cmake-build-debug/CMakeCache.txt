@@ -22,7 +22,7 @@ CMAKE_AR:FILEPATH=/usr/bin/ar
 CMAKE_BUILD_TYPE:STRING=Debug
 
 //The CodeBlocks executable
-CMAKE_CODEBLOCKS_EXECUTABLE:FILEPATH=CMAKE_CODEBLOCKS_EXECUTABLE-NOTFOUND
+CMAKE_CODEBLOCKS_EXECUTABLE:FILEPATH=/usr/bin/codeblocks
 
 //Additional command line arguments when CodeBlocks invokes make.
 // Enter e.g. -j<some_number> to get parallel builds
@@ -201,7 +201,19 @@ Project_BINARY_DIR:STATIC=/home/hayden/Git/cprimer/cmake-build-debug
 Project_SOURCE_DIR:STATIC=/home/hayden/Git/cprimer
 
 //Dependencies for target
+chapter 3 - strings, vectors, and arrays/3.3 library vector type/3.3.3 other vector operations/test.cpp_LIB_DEPENDS:STATIC=
+
+//Dependencies for target
 esec3-2_2.cpp_LIB_DEPENDS:STATIC=
+
+//Dependencies for target
+test_LIB_DEPENDS:STATIC=
+
+//Dependencies for target
+testin_LIB_DEPENDS:STATIC=
+
+//Dependencies for target
+thing_LIB_DEPENDS:STATIC=
 
 
 ########################

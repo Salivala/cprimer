@@ -1,0 +1,3 @@
+/home/hayden/Git/cprimer/build/CMakeFiles/rebuild_cache.dir
+/home/hayden/Git/cprimer/build/CMakeFiles/main.dir
+/home/hayden/Git/cprimer/build/CMakeFiles/edit_cache.dir

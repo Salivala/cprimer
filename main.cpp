@@ -6,10 +6,13 @@
 #include <iostream>
 #include <string>
 //#include "chapter 2 variables and basic types/2.6 defining our own data structures/2.6.1 defining the sales_data type/playing around/list/list_node.h"
-#include "chapter 3 - strings, vectors, and arrays/3.2 library string type/3.2.2 operations on strings/Esec3-2_2/Esec3-2_2.cpp"
-#include "chapter 3 - strings, vectors, and arrays/3.2 library string type/3.2.2 operations on strings/3.2.3 dealing with the characters in a string/Esec3-2_3.cpp"
-#include "chapter 3 - strings, vectors, and arrays/3.3 library vector type/weeee.cpp"
-#include "chapter 3 - strings, vectors, and arrays/3.3 library vector type/3.3.1 defining and initializing vectors/Esec3-3_1.cpp"
+//#include "chapter 3 - strings, vectors, and arrays/3.2 library string type/3.2.2 operations on strings/Esec3-2_2/Esec3-2_2.cpp"
+//#include "chapter 3 - strings, vectors, and arrays/3.2 library string type/3.2.2 operations on strings/3.2.3 dealing with the characters in a string/Esec3-2_3.cpp"
+//#include "chapter 3 - strings, vectors, and arrays/3.3 library vector type/weeee.cpp"
+//#include "chapter 3 - strings, vectors, and arrays/3.3 library vector type/3.3.1 defining and initializing vectors/Esec3-3_1.cpp"
+//#include "chapter 3 - strings, vectors, and arrays/3.3 library vector type/3.3.2 adding elements to a vector/Esec3-3_2.cpp"
+#include "chapter 3 - strings, vectors, and arrays/3.3 library vector type/3.3.3 other vector operations/Esec3-3_3.cpp"
+#include "chapter 3 - strings, vectors, and arrays/3.3 library vector type/3.3.3 other vector operations/test.cpp"
 #include <cctype>
 
 #endif
@@ -32,7 +35,10 @@ int main()
     //exercise3_9();
     //exercise3_10();
 
-    exercise3_12();
-    exercise3_13();
+    //exercise3_12();
+    //exercise3_13();
+    //exercise3_14();
+    //exercise3_15();
+    exercise3_17();
 
 }

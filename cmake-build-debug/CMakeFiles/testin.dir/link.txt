@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtestin.a  CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.3_library_vector_type/3.3.3_other_vector_operations/test.cpp.o CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.3_library_vector_type/3.3.3_other_vector_operations/Esec3-3_3.cpp.o
+/usr/bin/ranlib libtestin.a

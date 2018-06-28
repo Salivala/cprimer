@@ -60,39 +60,39 @@ CMAKE_SOURCE_DIR = /home/hayden/Git/cprimer
 CMAKE_BINARY_DIR = /home/hayden/Git/cprimer/cmake-build-debug
 
 #=============================================================================
-# Target rules for target CMakeFiles/esec3-2_2.cpp.dir
+# Target rules for target CMakeFiles/testin.dir
 
 # All Build rule for target.
-CMakeFiles/esec3-2_2.cpp.dir/all:
-	$(MAKE) -f CMakeFiles/esec3-2_2.cpp.dir/build.make CMakeFiles/esec3-2_2.cpp.dir/depend
-	$(MAKE) -f CMakeFiles/esec3-2_2.cpp.dir/build.make CMakeFiles/esec3-2_2.cpp.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/hayden/Git/cprimer/cmake-build-debug/CMakeFiles --progress-num=1,2,3,4 "Built target esec3-2_2.cpp"
-.PHONY : CMakeFiles/esec3-2_2.cpp.dir/all
+CMakeFiles/testin.dir/all:
+	$(MAKE) -f CMakeFiles/testin.dir/build.make CMakeFiles/testin.dir/depend
+	$(MAKE) -f CMakeFiles/testin.dir/build.make CMakeFiles/testin.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/hayden/Git/cprimer/cmake-build-debug/CMakeFiles --progress-num=3,4,5 "Built target testin"
+.PHONY : CMakeFiles/testin.dir/all
 
 # Include target in all.
-all: CMakeFiles/esec3-2_2.cpp.dir/all
+all: CMakeFiles/testin.dir/all
 
 .PHONY : all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/esec3-2_2.cpp.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/hayden/Git/cprimer/cmake-build-debug/CMakeFiles 4
-	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/esec3-2_2.cpp.dir/all
+CMakeFiles/testin.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/hayden/Git/cprimer/cmake-build-debug/CMakeFiles 3
+	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/testin.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/hayden/Git/cprimer/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/esec3-2_2.cpp.dir/rule
+.PHONY : CMakeFiles/testin.dir/rule
 
 # Convenience name for target.
-esec3-2_2.cpp: CMakeFiles/esec3-2_2.cpp.dir/rule
+testin: CMakeFiles/testin.dir/rule
 
-.PHONY : esec3-2_2.cpp
-
-# clean rule for target.
-CMakeFiles/esec3-2_2.cpp.dir/clean:
-	$(MAKE) -f CMakeFiles/esec3-2_2.cpp.dir/build.make CMakeFiles/esec3-2_2.cpp.dir/clean
-.PHONY : CMakeFiles/esec3-2_2.cpp.dir/clean
+.PHONY : testin
 
 # clean rule for target.
-clean: CMakeFiles/esec3-2_2.cpp.dir/clean
+CMakeFiles/testin.dir/clean:
+	$(MAKE) -f CMakeFiles/testin.dir/build.make CMakeFiles/testin.dir/clean
+.PHONY : CMakeFiles/testin.dir/clean
+
+# clean rule for target.
+clean: CMakeFiles/testin.dir/clean
 
 .PHONY : clean
 
@@ -103,7 +103,7 @@ clean: CMakeFiles/esec3-2_2.cpp.dir/clean
 CMakeFiles/main.dir/all:
 	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/depend
 	$(MAKE) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/hayden/Git/cprimer/cmake-build-debug/CMakeFiles --progress-num=5,6 "Built target main"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/hayden/Git/cprimer/cmake-build-debug/CMakeFiles --progress-num=1,2 "Built target main"
 .PHONY : CMakeFiles/main.dir/all
 
 # Include target in all.

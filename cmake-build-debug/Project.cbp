@@ -27,8 +27,8 @@
 					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/hayden/Git/cprimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="esec3-2_2.cpp">
-				<Option output="/home/hayden/Git/cprimer/cmake-build-debug/libesec3-2_2.cpp.a" prefix_auto="0" extension_auto="0"/>
+			<Target title="testin">
+				<Option output="/home/hayden/Git/cprimer/cmake-build-debug/libtestin.a" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/hayden/Git/cprimer/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
@@ -42,14 +42,14 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j4 -f &quot;/home/hayden/Git/cprimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 esec3-2_2.cpp"/>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/hayden/Git/cprimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 testin"/>
 					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/hayden/Git/cprimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/hayden/Git/cprimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/hayden/Git/cprimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="esec3-2_2.cpp/fast">
-				<Option output="/home/hayden/Git/cprimer/cmake-build-debug/libesec3-2_2.cpp.a" prefix_auto="0" extension_auto="0"/>
+			<Target title="testin/fast">
+				<Option output="/home/hayden/Git/cprimer/cmake-build-debug/libtestin.a" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/hayden/Git/cprimer/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="2"/>
@@ -63,7 +63,7 @@
 					<Add directory="/usr/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/gmake -j4 -f &quot;/home/hayden/Git/cprimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 esec3-2_2.cpp/fast"/>
+					<Build command="/usr/bin/gmake -j4 -f &quot;/home/hayden/Git/cprimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 testin/fast"/>
 					<CompileFile command="/usr/bin/gmake -j4 -f &quot;/home/hayden/Git/cprimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/gmake -j4 -f &quot;/home/hayden/Git/cprimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/gmake -j4 -f &quot;/home/hayden/Git/cprimer/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
@@ -122,14 +122,11 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/home/hayden/Git/cprimer/chapter 3 - strings, vectors, and arrays/3.2 library string type/3.2.2 operations on strings/3.2.3 dealing with the characters in a string/Esec3-2_3.cpp">
-			<Option target="esec3-2_2.cpp"/>
+		<Unit filename="/home/hayden/Git/cprimer/chapter 3 - strings, vectors, and arrays/3.3 library vector type/3.3.3 other vector operations/Esec3-3_3.cpp">
+			<Option target="testin"/>
 		</Unit>
-		<Unit filename="/home/hayden/Git/cprimer/chapter 3 - strings, vectors, and arrays/3.2 library string type/3.2.2 operations on strings/Esec3-2_2/Esec3-2_2.cpp">
-			<Option target="esec3-2_2.cpp"/>
-		</Unit>
-		<Unit filename="/home/hayden/Git/cprimer/chapter 3 - strings, vectors, and arrays/3.3 library vector type/weeee.cpp">
-			<Option target="esec3-2_2.cpp"/>
+		<Unit filename="/home/hayden/Git/cprimer/chapter 3 - strings, vectors, and arrays/3.3 library vector type/3.3.3 other vector operations/test.cpp">
+			<Option target="testin"/>
 		</Unit>
 		<Unit filename="/home/hayden/Git/cprimer/main.cpp">
 			<Option target="main"/>

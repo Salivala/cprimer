@@ -33,19 +33,20 @@ void exercise3_12()
 /**
  * Exercise 3.13: How many elements are there in each of the following vectors? What
  * are the values of the elementS?
- * (a) vector<int> v1;  // none
+ * (a) vector<int> v1;  /}/ none
  * (b) vector<int> v2(10);  // ill guess 1, containing 10
- * (c) vector<int> v3(10, 42);
- * (d) vector<int> v4{10};
- * (e) vector<int> v5{10,42};
- * (f) vecotr<string> v6{10};
+ * (c) vector<int> v3(10, 42); // 10 items of 42
+ * (d) vector<int> v4{10}; // 1 item of 10
+ * (e) vector<int> v5{10,42}; 2 items, 10 and 42
+ * (f) vecotr<string> v6{10}; no,  it contains 10 unanitialized things
  * (g) vector<string> v7{10, "hi"};
  */
 void exercise3_13()
 {
     //vector<int> v1;
     //cout << v1.size() << endl; // right!
-    vector<int> v2(10); // wrong 
-    cout << v2.size() << endl;
+    //vector<int> v2(10); // right, c
+    //cout << v2.size() << endl;
+    //
 }
 #endif
