@@ -10,6 +10,17 @@
 
 using std::vector;
 using std::string;
+using std::cout;
+using std::endl;
 
-vector<int> ints = {3,2,3,4};
+void testing()
+{
+    vector<int> k;
+    k.push_back(3);
+    for (auto n : k)
+    {
+        cout << n << endl;
+    }
+}
+
 #endif

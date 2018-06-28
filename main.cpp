@@ -30,4 +30,6 @@ int main()
     //exercise3_8();
     //exercise3_9();
     //exercise3_10();
+    testing();
+
 }
