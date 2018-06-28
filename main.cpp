@@ -9,6 +9,7 @@
 #include "chapter 3 - strings, vectors, and arrays/3.2 library string type/3.2.2 operations on strings/Esec3-2_2/Esec3-2_2.cpp"
 #include "chapter 3 - strings, vectors, and arrays/3.2 library string type/3.2.2 operations on strings/3.2.3 dealing with the characters in a string/Esec3-2_3.cpp"
 #include "chapter 3 - strings, vectors, and arrays/3.3 library vector type/weeee.cpp"
+#include "chapter 3 - strings, vectors, and arrays/3.3 library vector type/3.3.1 defining and initializing vectors/Esec3-3_1.cpp"
 #include <cctype>
 
 #endif
@@ -30,6 +31,8 @@ int main()
     //exercise3_8();
     //exercise3_9();
     //exercise3_10();
-    testing();
+
+    exercise3_12();
+    exercise3_13();
 
 }
