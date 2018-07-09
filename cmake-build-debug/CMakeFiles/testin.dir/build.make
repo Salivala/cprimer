@@ -60,15 +60,15 @@ include CMakeFiles/testin.dir/flags.make
 CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.3_library_vector_type/3.3.3_other_vector_operations/test.cpp.o: CMakeFiles/testin.dir/flags.make
 CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.3_library_vector_type/3.3.3_other_vector_operations/test.cpp.o: ../chapter\ 3\ -\ strings,\ vectors,\ and\ arrays/3.3\ library\ vector\ type/3.3.3\ other\ vector\ operations/test.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hayden/Git/cprimer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.3_library_vector_type/3.3.3_other_vector_operations/test.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.3_library_vector_type/3.3.3_other_vector_operations/test.cpp.o -c "/home/hayden/Git/cprimer/chapter 3 - strings, vectors, and arrays/3.3 library vector type/3.3.3 other vector operations/test.cpp"
+	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.3_library_vector_type/3.3.3_other_vector_operations/test.cpp.o -c "/home/hayden/Git/cprimer/chapter 3 - strings, vectors, and arrays/3.3 library vector type/3.3.3 other vector operations/test.cpp"
 
 CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.3_library_vector_type/3.3.3_other_vector_operations/test.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.3_library_vector_type/3.3.3_other_vector_operations/test.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/hayden/Git/cprimer/chapter 3 - strings, vectors, and arrays/3.3 library vector type/3.3.3 other vector operations/test.cpp" > CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.3_library_vector_type/3.3.3_other_vector_operations/test.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/hayden/Git/cprimer/chapter 3 - strings, vectors, and arrays/3.3 library vector type/3.3.3 other vector operations/test.cpp" > CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.3_library_vector_type/3.3.3_other_vector_operations/test.cpp.i
 
 CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.3_library_vector_type/3.3.3_other_vector_operations/test.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.3_library_vector_type/3.3.3_other_vector_operations/test.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/hayden/Git/cprimer/chapter 3 - strings, vectors, and arrays/3.3 library vector type/3.3.3 other vector operations/test.cpp" -o CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.3_library_vector_type/3.3.3_other_vector_operations/test.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/hayden/Git/cprimer/chapter 3 - strings, vectors, and arrays/3.3 library vector type/3.3.3 other vector operations/test.cpp" -o CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.3_library_vector_type/3.3.3_other_vector_operations/test.cpp.s
 
 CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.3_library_vector_type/3.3.3_other_vector_operations/test.cpp.o.requires:
 
@@ -84,15 +84,15 @@ CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.3_library_vecto
 CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.3_library_vector_type/3.3.3_other_vector_operations/Esec3-3_3.cpp.o: CMakeFiles/testin.dir/flags.make
 CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.3_library_vector_type/3.3.3_other_vector_operations/Esec3-3_3.cpp.o: ../chapter\ 3\ -\ strings,\ vectors,\ and\ arrays/3.3\ library\ vector\ type/3.3.3\ other\ vector\ operations/Esec3-3_3.cpp
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hayden/Git/cprimer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.3_library_vector_type/3.3.3_other_vector_operations/Esec3-3_3.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.3_library_vector_type/3.3.3_other_vector_operations/Esec3-3_3.cpp.o -c "/home/hayden/Git/cprimer/chapter 3 - strings, vectors, and arrays/3.3 library vector type/3.3.3 other vector operations/Esec3-3_3.cpp"
+	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.3_library_vector_type/3.3.3_other_vector_operations/Esec3-3_3.cpp.o -c "/home/hayden/Git/cprimer/chapter 3 - strings, vectors, and arrays/3.3 library vector type/3.3.3 other vector operations/Esec3-3_3.cpp"
 
 CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.3_library_vector_type/3.3.3_other_vector_operations/Esec3-3_3.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.3_library_vector_type/3.3.3_other_vector_operations/Esec3-3_3.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/hayden/Git/cprimer/chapter 3 - strings, vectors, and arrays/3.3 library vector type/3.3.3 other vector operations/Esec3-3_3.cpp" > CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.3_library_vector_type/3.3.3_other_vector_operations/Esec3-3_3.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/hayden/Git/cprimer/chapter 3 - strings, vectors, and arrays/3.3 library vector type/3.3.3 other vector operations/Esec3-3_3.cpp" > CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.3_library_vector_type/3.3.3_other_vector_operations/Esec3-3_3.cpp.i
 
 CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.3_library_vector_type/3.3.3_other_vector_operations/Esec3-3_3.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.3_library_vector_type/3.3.3_other_vector_operations/Esec3-3_3.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/hayden/Git/cprimer/chapter 3 - strings, vectors, and arrays/3.3 library vector type/3.3.3 other vector operations/Esec3-3_3.cpp" -o CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.3_library_vector_type/3.3.3_other_vector_operations/Esec3-3_3.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/hayden/Git/cprimer/chapter 3 - strings, vectors, and arrays/3.3 library vector type/3.3.3 other vector operations/Esec3-3_3.cpp" -o CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.3_library_vector_type/3.3.3_other_vector_operations/Esec3-3_3.cpp.s
 
 CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.3_library_vector_type/3.3.3_other_vector_operations/Esec3-3_3.cpp.o.requires:
 
@@ -105,19 +105,97 @@ CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.3_library_vecto
 CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.3_library_vector_type/3.3.3_other_vector_operations/Esec3-3_3.cpp.o.provides.build: CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.3_library_vector_type/3.3.3_other_vector_operations/Esec3-3_3.cpp.o
 
 
+CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.4_introducting_iterators/3.4.1_using_iterators/Esec3-4_1.cpp.o: CMakeFiles/testin.dir/flags.make
+CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.4_introducting_iterators/3.4.1_using_iterators/Esec3-4_1.cpp.o: ../chapter\ 3\ -\ strings,\ vectors,\ and\ arrays/3.4\ introducting\ iterators/3.4.1\ using\ iterators/Esec3-4_1.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hayden/Git/cprimer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.4_introducting_iterators/3.4.1_using_iterators/Esec3-4_1.cpp.o"
+	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.4_introducting_iterators/3.4.1_using_iterators/Esec3-4_1.cpp.o -c "/home/hayden/Git/cprimer/chapter 3 - strings, vectors, and arrays/3.4 introducting iterators/3.4.1 using iterators/Esec3-4_1.cpp"
+
+CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.4_introducting_iterators/3.4.1_using_iterators/Esec3-4_1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.4_introducting_iterators/3.4.1_using_iterators/Esec3-4_1.cpp.i"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/hayden/Git/cprimer/chapter 3 - strings, vectors, and arrays/3.4 introducting iterators/3.4.1 using iterators/Esec3-4_1.cpp" > CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.4_introducting_iterators/3.4.1_using_iterators/Esec3-4_1.cpp.i
+
+CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.4_introducting_iterators/3.4.1_using_iterators/Esec3-4_1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.4_introducting_iterators/3.4.1_using_iterators/Esec3-4_1.cpp.s"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/hayden/Git/cprimer/chapter 3 - strings, vectors, and arrays/3.4 introducting iterators/3.4.1 using iterators/Esec3-4_1.cpp" -o CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.4_introducting_iterators/3.4.1_using_iterators/Esec3-4_1.cpp.s
+
+CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.4_introducting_iterators/3.4.1_using_iterators/Esec3-4_1.cpp.o.requires:
+
+.PHONY : CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.4_introducting_iterators/3.4.1_using_iterators/Esec3-4_1.cpp.o.requires
+
+CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.4_introducting_iterators/3.4.1_using_iterators/Esec3-4_1.cpp.o.provides: CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.4_introducting_iterators/3.4.1_using_iterators/Esec3-4_1.cpp.o.requires
+	$(MAKE) -f CMakeFiles/testin.dir/build.make CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.4_introducting_iterators/3.4.1_using_iterators/Esec3-4_1.cpp.o.provides.build
+.PHONY : CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.4_introducting_iterators/3.4.1_using_iterators/Esec3-4_1.cpp.o.provides
+
+CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.4_introducting_iterators/3.4.1_using_iterators/Esec3-4_1.cpp.o.provides.build: CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.4_introducting_iterators/3.4.1_using_iterators/Esec3-4_1.cpp.o
+
+
+CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.1_defining_and_initializing_built-in_arrays/Esec3-5_1.cpp.o: CMakeFiles/testin.dir/flags.make
+CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.1_defining_and_initializing_built-in_arrays/Esec3-5_1.cpp.o: ../chapter\ 3\ -\ strings,\ vectors,\ and\ arrays/3.5\ arrays/3.5.1\ defining\ and\ initializing\ built-in\ arrays/Esec3-5_1.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hayden/Git/cprimer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.1_defining_and_initializing_built-in_arrays/Esec3-5_1.cpp.o"
+	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.1_defining_and_initializing_built-in_arrays/Esec3-5_1.cpp.o -c "/home/hayden/Git/cprimer/chapter 3 - strings, vectors, and arrays/3.5 arrays/3.5.1 defining and initializing built-in arrays/Esec3-5_1.cpp"
+
+CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.1_defining_and_initializing_built-in_arrays/Esec3-5_1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.1_defining_and_initializing_built-in_arrays/Esec3-5_1.cpp.i"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/hayden/Git/cprimer/chapter 3 - strings, vectors, and arrays/3.5 arrays/3.5.1 defining and initializing built-in arrays/Esec3-5_1.cpp" > CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.1_defining_and_initializing_built-in_arrays/Esec3-5_1.cpp.i
+
+CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.1_defining_and_initializing_built-in_arrays/Esec3-5_1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.1_defining_and_initializing_built-in_arrays/Esec3-5_1.cpp.s"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/hayden/Git/cprimer/chapter 3 - strings, vectors, and arrays/3.5 arrays/3.5.1 defining and initializing built-in arrays/Esec3-5_1.cpp" -o CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.1_defining_and_initializing_built-in_arrays/Esec3-5_1.cpp.s
+
+CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.1_defining_and_initializing_built-in_arrays/Esec3-5_1.cpp.o.requires:
+
+.PHONY : CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.1_defining_and_initializing_built-in_arrays/Esec3-5_1.cpp.o.requires
+
+CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.1_defining_and_initializing_built-in_arrays/Esec3-5_1.cpp.o.provides: CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.1_defining_and_initializing_built-in_arrays/Esec3-5_1.cpp.o.requires
+	$(MAKE) -f CMakeFiles/testin.dir/build.make CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.1_defining_and_initializing_built-in_arrays/Esec3-5_1.cpp.o.provides.build
+.PHONY : CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.1_defining_and_initializing_built-in_arrays/Esec3-5_1.cpp.o.provides
+
+CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.1_defining_and_initializing_built-in_arrays/Esec3-5_1.cpp.o.provides.build: CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.1_defining_and_initializing_built-in_arrays/Esec3-5_1.cpp.o
+
+
+CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.2_accessing_the_elements_of_an_array/Esec3-5_2.cpp.o: CMakeFiles/testin.dir/flags.make
+CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.2_accessing_the_elements_of_an_array/Esec3-5_2.cpp.o: ../chapter\ 3\ -\ strings,\ vectors,\ and\ arrays/3.5\ arrays/3.5.2\ accessing\ the\ elements\ of\ an\ array/Esec3-5_2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hayden/Git/cprimer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.2_accessing_the_elements_of_an_array/Esec3-5_2.cpp.o"
+	/usr/bin/g++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.2_accessing_the_elements_of_an_array/Esec3-5_2.cpp.o -c "/home/hayden/Git/cprimer/chapter 3 - strings, vectors, and arrays/3.5 arrays/3.5.2 accessing the elements of an array/Esec3-5_2.cpp"
+
+CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.2_accessing_the_elements_of_an_array/Esec3-5_2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.2_accessing_the_elements_of_an_array/Esec3-5_2.cpp.i"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/hayden/Git/cprimer/chapter 3 - strings, vectors, and arrays/3.5 arrays/3.5.2 accessing the elements of an array/Esec3-5_2.cpp" > CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.2_accessing_the_elements_of_an_array/Esec3-5_2.cpp.i
+
+CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.2_accessing_the_elements_of_an_array/Esec3-5_2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.2_accessing_the_elements_of_an_array/Esec3-5_2.cpp.s"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/hayden/Git/cprimer/chapter 3 - strings, vectors, and arrays/3.5 arrays/3.5.2 accessing the elements of an array/Esec3-5_2.cpp" -o CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.2_accessing_the_elements_of_an_array/Esec3-5_2.cpp.s
+
+CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.2_accessing_the_elements_of_an_array/Esec3-5_2.cpp.o.requires:
+
+.PHONY : CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.2_accessing_the_elements_of_an_array/Esec3-5_2.cpp.o.requires
+
+CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.2_accessing_the_elements_of_an_array/Esec3-5_2.cpp.o.provides: CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.2_accessing_the_elements_of_an_array/Esec3-5_2.cpp.o.requires
+	$(MAKE) -f CMakeFiles/testin.dir/build.make CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.2_accessing_the_elements_of_an_array/Esec3-5_2.cpp.o.provides.build
+.PHONY : CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.2_accessing_the_elements_of_an_array/Esec3-5_2.cpp.o.provides
+
+CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.2_accessing_the_elements_of_an_array/Esec3-5_2.cpp.o.provides.build: CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.2_accessing_the_elements_of_an_array/Esec3-5_2.cpp.o
+
+
 # Object files for target testin
 testin_OBJECTS = \
 "CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.3_library_vector_type/3.3.3_other_vector_operations/test.cpp.o" \
-"CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.3_library_vector_type/3.3.3_other_vector_operations/Esec3-3_3.cpp.o"
+"CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.3_library_vector_type/3.3.3_other_vector_operations/Esec3-3_3.cpp.o" \
+"CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.4_introducting_iterators/3.4.1_using_iterators/Esec3-4_1.cpp.o" \
+"CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.1_defining_and_initializing_built-in_arrays/Esec3-5_1.cpp.o" \
+"CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.2_accessing_the_elements_of_an_array/Esec3-5_2.cpp.o"
 
 # External object files for target testin
 testin_EXTERNAL_OBJECTS =
 
 libtestin.a: CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.3_library_vector_type/3.3.3_other_vector_operations/test.cpp.o
 libtestin.a: CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.3_library_vector_type/3.3.3_other_vector_operations/Esec3-3_3.cpp.o
+libtestin.a: CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.4_introducting_iterators/3.4.1_using_iterators/Esec3-4_1.cpp.o
+libtestin.a: CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.1_defining_and_initializing_built-in_arrays/Esec3-5_1.cpp.o
+libtestin.a: CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.2_accessing_the_elements_of_an_array/Esec3-5_2.cpp.o
 libtestin.a: CMakeFiles/testin.dir/build.make
 libtestin.a: CMakeFiles/testin.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/hayden/Git/cprimer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX static library libtestin.a"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/hayden/Git/cprimer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX static library libtestin.a"
 	$(CMAKE_COMMAND) -P CMakeFiles/testin.dir/cmake_clean_target.cmake
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/testin.dir/link.txt --verbose=$(VERBOSE)
 
@@ -128,6 +206,9 @@ CMakeFiles/testin.dir/build: libtestin.a
 
 CMakeFiles/testin.dir/requires: CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.3_library_vector_type/3.3.3_other_vector_operations/test.cpp.o.requires
 CMakeFiles/testin.dir/requires: CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.3_library_vector_type/3.3.3_other_vector_operations/Esec3-3_3.cpp.o.requires
+CMakeFiles/testin.dir/requires: CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.4_introducting_iterators/3.4.1_using_iterators/Esec3-4_1.cpp.o.requires
+CMakeFiles/testin.dir/requires: CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.1_defining_and_initializing_built-in_arrays/Esec3-5_1.cpp.o.requires
+CMakeFiles/testin.dir/requires: CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.2_accessing_the_elements_of_an_array/Esec3-5_2.cpp.o.requires
 
 .PHONY : CMakeFiles/testin.dir/requires
 

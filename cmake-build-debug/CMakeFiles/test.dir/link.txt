@@ -1,2 +1,0 @@
-/usr/bin/ar qc libtest.a  CMakeFiles/test.dir/chapter_3_-_strings,_vectors,_and_arrays/3.3_library_vector_type/3.3.3_other_vector_operations/test.cpp.o
-/usr/bin/ranlib libtest.a

@@ -190,6 +190,87 @@ chapter_3_-_strings,_vectors,_and_arrays/3.3_library_vector_type/3.3.3_other_vec
 	$(MAKE) -f CMakeFiles/testin.dir/build.make CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.3_library_vector_type/3.3.3_other_vector_operations/test.cpp.s
 .PHONY : chapter_3_-_strings,_vectors,_and_arrays/3.3_library_vector_type/3.3.3_other_vector_operations/test.cpp.s
 
+chapter_3_-_strings,_vectors,_and_arrays/3.4_introducting_iterators/3.4.1_using_iterators/Esec3-4_1.o: chapter_3_-_strings,_vectors,_and_arrays/3.4_introducting_iterators/3.4.1_using_iterators/Esec3-4_1.cpp.o
+
+.PHONY : chapter_3_-_strings,_vectors,_and_arrays/3.4_introducting_iterators/3.4.1_using_iterators/Esec3-4_1.o
+
+# target to build an object file
+chapter_3_-_strings,_vectors,_and_arrays/3.4_introducting_iterators/3.4.1_using_iterators/Esec3-4_1.cpp.o:
+	$(MAKE) -f CMakeFiles/testin.dir/build.make CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.4_introducting_iterators/3.4.1_using_iterators/Esec3-4_1.cpp.o
+.PHONY : chapter_3_-_strings,_vectors,_and_arrays/3.4_introducting_iterators/3.4.1_using_iterators/Esec3-4_1.cpp.o
+
+chapter_3_-_strings,_vectors,_and_arrays/3.4_introducting_iterators/3.4.1_using_iterators/Esec3-4_1.i: chapter_3_-_strings,_vectors,_and_arrays/3.4_introducting_iterators/3.4.1_using_iterators/Esec3-4_1.cpp.i
+
+.PHONY : chapter_3_-_strings,_vectors,_and_arrays/3.4_introducting_iterators/3.4.1_using_iterators/Esec3-4_1.i
+
+# target to preprocess a source file
+chapter_3_-_strings,_vectors,_and_arrays/3.4_introducting_iterators/3.4.1_using_iterators/Esec3-4_1.cpp.i:
+	$(MAKE) -f CMakeFiles/testin.dir/build.make CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.4_introducting_iterators/3.4.1_using_iterators/Esec3-4_1.cpp.i
+.PHONY : chapter_3_-_strings,_vectors,_and_arrays/3.4_introducting_iterators/3.4.1_using_iterators/Esec3-4_1.cpp.i
+
+chapter_3_-_strings,_vectors,_and_arrays/3.4_introducting_iterators/3.4.1_using_iterators/Esec3-4_1.s: chapter_3_-_strings,_vectors,_and_arrays/3.4_introducting_iterators/3.4.1_using_iterators/Esec3-4_1.cpp.s
+
+.PHONY : chapter_3_-_strings,_vectors,_and_arrays/3.4_introducting_iterators/3.4.1_using_iterators/Esec3-4_1.s
+
+# target to generate assembly for a file
+chapter_3_-_strings,_vectors,_and_arrays/3.4_introducting_iterators/3.4.1_using_iterators/Esec3-4_1.cpp.s:
+	$(MAKE) -f CMakeFiles/testin.dir/build.make CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.4_introducting_iterators/3.4.1_using_iterators/Esec3-4_1.cpp.s
+.PHONY : chapter_3_-_strings,_vectors,_and_arrays/3.4_introducting_iterators/3.4.1_using_iterators/Esec3-4_1.cpp.s
+
+chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.1_defining_and_initializing_built-in_arrays/Esec3-5_1.o: chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.1_defining_and_initializing_built-in_arrays/Esec3-5_1.cpp.o
+
+.PHONY : chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.1_defining_and_initializing_built-in_arrays/Esec3-5_1.o
+
+# target to build an object file
+chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.1_defining_and_initializing_built-in_arrays/Esec3-5_1.cpp.o:
+	$(MAKE) -f CMakeFiles/testin.dir/build.make CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.1_defining_and_initializing_built-in_arrays/Esec3-5_1.cpp.o
+.PHONY : chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.1_defining_and_initializing_built-in_arrays/Esec3-5_1.cpp.o
+
+chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.1_defining_and_initializing_built-in_arrays/Esec3-5_1.i: chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.1_defining_and_initializing_built-in_arrays/Esec3-5_1.cpp.i
+
+.PHONY : chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.1_defining_and_initializing_built-in_arrays/Esec3-5_1.i
+
+# target to preprocess a source file
+chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.1_defining_and_initializing_built-in_arrays/Esec3-5_1.cpp.i:
+	$(MAKE) -f CMakeFiles/testin.dir/build.make CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.1_defining_and_initializing_built-in_arrays/Esec3-5_1.cpp.i
+.PHONY : chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.1_defining_and_initializing_built-in_arrays/Esec3-5_1.cpp.i
+
+chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.1_defining_and_initializing_built-in_arrays/Esec3-5_1.s: chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.1_defining_and_initializing_built-in_arrays/Esec3-5_1.cpp.s
+
+.PHONY : chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.1_defining_and_initializing_built-in_arrays/Esec3-5_1.s
+
+# target to generate assembly for a file
+chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.1_defining_and_initializing_built-in_arrays/Esec3-5_1.cpp.s:
+	$(MAKE) -f CMakeFiles/testin.dir/build.make CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.1_defining_and_initializing_built-in_arrays/Esec3-5_1.cpp.s
+.PHONY : chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.1_defining_and_initializing_built-in_arrays/Esec3-5_1.cpp.s
+
+chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.2_accessing_the_elements_of_an_array/Esec3-5_2.o: chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.2_accessing_the_elements_of_an_array/Esec3-5_2.cpp.o
+
+.PHONY : chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.2_accessing_the_elements_of_an_array/Esec3-5_2.o
+
+# target to build an object file
+chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.2_accessing_the_elements_of_an_array/Esec3-5_2.cpp.o:
+	$(MAKE) -f CMakeFiles/testin.dir/build.make CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.2_accessing_the_elements_of_an_array/Esec3-5_2.cpp.o
+.PHONY : chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.2_accessing_the_elements_of_an_array/Esec3-5_2.cpp.o
+
+chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.2_accessing_the_elements_of_an_array/Esec3-5_2.i: chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.2_accessing_the_elements_of_an_array/Esec3-5_2.cpp.i
+
+.PHONY : chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.2_accessing_the_elements_of_an_array/Esec3-5_2.i
+
+# target to preprocess a source file
+chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.2_accessing_the_elements_of_an_array/Esec3-5_2.cpp.i:
+	$(MAKE) -f CMakeFiles/testin.dir/build.make CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.2_accessing_the_elements_of_an_array/Esec3-5_2.cpp.i
+.PHONY : chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.2_accessing_the_elements_of_an_array/Esec3-5_2.cpp.i
+
+chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.2_accessing_the_elements_of_an_array/Esec3-5_2.s: chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.2_accessing_the_elements_of_an_array/Esec3-5_2.cpp.s
+
+.PHONY : chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.2_accessing_the_elements_of_an_array/Esec3-5_2.s
+
+# target to generate assembly for a file
+chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.2_accessing_the_elements_of_an_array/Esec3-5_2.cpp.s:
+	$(MAKE) -f CMakeFiles/testin.dir/build.make CMakeFiles/testin.dir/chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.2_accessing_the_elements_of_an_array/Esec3-5_2.cpp.s
+.PHONY : chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.2_accessing_the_elements_of_an_array/Esec3-5_2.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -233,6 +314,15 @@ help:
 	@echo "... chapter_3_-_strings,_vectors,_and_arrays/3.3_library_vector_type/3.3.3_other_vector_operations/test.o"
 	@echo "... chapter_3_-_strings,_vectors,_and_arrays/3.3_library_vector_type/3.3.3_other_vector_operations/test.i"
 	@echo "... chapter_3_-_strings,_vectors,_and_arrays/3.3_library_vector_type/3.3.3_other_vector_operations/test.s"
+	@echo "... chapter_3_-_strings,_vectors,_and_arrays/3.4_introducting_iterators/3.4.1_using_iterators/Esec3-4_1.o"
+	@echo "... chapter_3_-_strings,_vectors,_and_arrays/3.4_introducting_iterators/3.4.1_using_iterators/Esec3-4_1.i"
+	@echo "... chapter_3_-_strings,_vectors,_and_arrays/3.4_introducting_iterators/3.4.1_using_iterators/Esec3-4_1.s"
+	@echo "... chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.1_defining_and_initializing_built-in_arrays/Esec3-5_1.o"
+	@echo "... chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.1_defining_and_initializing_built-in_arrays/Esec3-5_1.i"
+	@echo "... chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.1_defining_and_initializing_built-in_arrays/Esec3-5_1.s"
+	@echo "... chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.2_accessing_the_elements_of_an_array/Esec3-5_2.o"
+	@echo "... chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.2_accessing_the_elements_of_an_array/Esec3-5_2.i"
+	@echo "... chapter_3_-_strings,_vectors,_and_arrays/3.5_arrays/3.5.2_accessing_the_elements_of_an_array/Esec3-5_2.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

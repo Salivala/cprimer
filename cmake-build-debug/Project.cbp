@@ -128,6 +128,15 @@
 		<Unit filename="/home/hayden/Git/cprimer/chapter 3 - strings, vectors, and arrays/3.3 library vector type/3.3.3 other vector operations/test.cpp">
 			<Option target="testin"/>
 		</Unit>
+		<Unit filename="/home/hayden/Git/cprimer/chapter 3 - strings, vectors, and arrays/3.4 introducting iterators/3.4.1 using iterators/Esec3-4_1.cpp">
+			<Option target="testin"/>
+		</Unit>
+		<Unit filename="/home/hayden/Git/cprimer/chapter 3 - strings, vectors, and arrays/3.5 arrays/3.5.1 defining and initializing built-in arrays/Esec3-5_1.cpp">
+			<Option target="testin"/>
+		</Unit>
+		<Unit filename="/home/hayden/Git/cprimer/chapter 3 - strings, vectors, and arrays/3.5 arrays/3.5.2 accessing the elements of an array/Esec3-5_2.cpp">
+			<Option target="testin"/>
+		</Unit>
 		<Unit filename="/home/hayden/Git/cprimer/main.cpp">
 			<Option target="main"/>
 		</Unit>

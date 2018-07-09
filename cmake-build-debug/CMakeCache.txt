@@ -31,8 +31,8 @@ CMAKE_CODEBLOCKS_MAKE_ARGUMENTS:STRING=-j4
 //Enable/Disable color output during build.
 CMAKE_COLOR_MAKEFILE:BOOL=ON
 
-//CXX compiler
-CMAKE_CXX_COMPILER:FILEPATH=/usr/bin/c++
+//No help, variable specified on the command line.
+CMAKE_CXX_COMPILER:UNINITIALIZED=/usr/bin/g++
 
 //A wrapper around 'ar' adding the appropriate '--plugin' option
 // for the GCC compiler
@@ -201,19 +201,7 @@ Project_BINARY_DIR:STATIC=/home/hayden/Git/cprimer/cmake-build-debug
 Project_SOURCE_DIR:STATIC=/home/hayden/Git/cprimer
 
 //Dependencies for target
-chapter 3 - strings, vectors, and arrays/3.3 library vector type/3.3.3 other vector operations/test.cpp_LIB_DEPENDS:STATIC=
-
-//Dependencies for target
-esec3-2_2.cpp_LIB_DEPENDS:STATIC=
-
-//Dependencies for target
-test_LIB_DEPENDS:STATIC=
-
-//Dependencies for target
 testin_LIB_DEPENDS:STATIC=
-
-//Dependencies for target
-thing_LIB_DEPENDS:STATIC=
 
 
 ########################

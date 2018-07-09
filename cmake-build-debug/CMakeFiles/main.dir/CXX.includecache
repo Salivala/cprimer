@@ -15,9 +15,29 @@ string
 -
 vector
 -
+random
+-
 
 /home/hayden/Git/cprimer/chapter 3 - strings, vectors, and arrays/3.3 library vector type/3.3.3 other vector operations/test.cpp
 iostream
+-
+
+/home/hayden/Git/cprimer/chapter 3 - strings, vectors, and arrays/3.4 introducting iterators/3.4.1 using iterators/Esec3-4_1.cpp
+iostream
+-
+vector
+-
+string
+-
+cctype
+-
+
+/home/hayden/Git/cprimer/chapter 3 - strings, vectors, and arrays/3.5 arrays/3.5.2 accessing the elements of an array/Esec3-5_2.cpp
+cstddef
+-
+iostream
+-
+vector
 -
 
 /home/hayden/Git/cprimer/main.cpp
@@ -25,10 +45,20 @@ iostream
 -
 string
 -
+typeinfo
+-
 chapter 3 - strings, vectors, and arrays/3.3 library vector type/3.3.3 other vector operations/Esec3-3_3.cpp
 /home/hayden/Git/cprimer/chapter 3 - strings, vectors, and arrays/3.3 library vector type/3.3.3 other vector operations/Esec3-3_3.cpp
 chapter 3 - strings, vectors, and arrays/3.3 library vector type/3.3.3 other vector operations/test.cpp
 /home/hayden/Git/cprimer/chapter 3 - strings, vectors, and arrays/3.3 library vector type/3.3.3 other vector operations/test.cpp
+chapter 3 - strings, vectors, and arrays/3.4 introducting iterators/3.4.1 using iterators/Esec3-4_1.cpp
+/home/hayden/Git/cprimer/chapter 3 - strings, vectors, and arrays/3.4 introducting iterators/3.4.1 using iterators/Esec3-4_1.cpp
+chapter 3 - strings, vectors, and arrays/3.5 arrays/3.5.2 accessing the elements of an array/Esec3-5_2.cpp
+/home/hayden/Git/cprimer/chapter 3 - strings, vectors, and arrays/3.5 arrays/3.5.2 accessing the elements of an array/Esec3-5_2.cpp
 cctype
+-
+vector
+-
+cstdlib
 -
 

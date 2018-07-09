@@ -3,5 +3,7 @@
 
 CMakeFiles/main.dir/main.cpp.o: ../chapter\ 3\ -\ strings,\ vectors,\ and\ arrays/3.3\ library\ vector\ type/3.3.3\ other\ vector\ operations/Esec3-3_3.cpp
 CMakeFiles/main.dir/main.cpp.o: ../chapter\ 3\ -\ strings,\ vectors,\ and\ arrays/3.3\ library\ vector\ type/3.3.3\ other\ vector\ operations/test.cpp
+CMakeFiles/main.dir/main.cpp.o: ../chapter\ 3\ -\ strings,\ vectors,\ and\ arrays/3.4\ introducting\ iterators/3.4.1\ using\ iterators/Esec3-4_1.cpp
+CMakeFiles/main.dir/main.cpp.o: ../chapter\ 3\ -\ strings,\ vectors,\ and\ arrays/3.5\ arrays/3.5.2\ accessing\ the\ elements\ of\ an\ array/Esec3-5_2.cpp
 CMakeFiles/main.dir/main.cpp.o: ../main.cpp
 

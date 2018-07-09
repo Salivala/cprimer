@@ -7,13 +7,13 @@
 #include <cctype>
 #include <string>
 #include <vector>
+#include <random>
 
 using std::cout;
 using std::endl;
 using std::cin;
 using std::vector;
 using std::string;
-
 /**
  * Exercise 3.16: Write a program to print the size and contents of the vectors
  * from exercise 3.13. Check whether your answers to that exercise were correct.
@@ -78,10 +78,47 @@ void exercise3_18()
 
 void exercise3_19()
 {
+    /**
+     * two is there initialization, third is using push_back repeatedly
+     */
 }
 
 void exercise3_20()
 {
+    auto first = []()
+    {
+        vector<int> things = {12, 22, 9, 76, 5, 33, 22, 44};
+        if (things.size() % 2 == 1)
+        {
+            cout << "odd vector can't be divided into pairs";
+            return;
+        }
+        for(int i = 0; i < things.size() ; i+=2)
+        {
+            cout << things[i] + things[i + 1] << " ";
+        }
+        cout << endl;
+    };
+
+    auto second = []()
+    {
+        vector<int> things = {12, 22, 9, 76, 10000, 33, 22, 44};
+        if (things.size() % 2 == 1)
+        {
+            cout << "odd vector can't be divided into pairs";
+            return;
+        }
+        for(int i = 0; i < things.size() / 2 ; i++)
+        {
+            cout << things[i] + things[(things.size() - 1) - i] << " ";
+        }
+        cout << endl;
+    };
+
+
+    first();
+    second();
+
 }
 
 #endif
